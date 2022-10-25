@@ -1,13 +1,13 @@
-# The Name of My App
+# PokePlace
 
-a description of my project
+An interactive pokedex where you will have the abbility to search and favorite many pokemon.
 
 ### Technologies Used
 
-- tech
-- tech 2
-- tech 3
-- tech 4
+- Javascript
+- Html
+- CSS
+- jquery
 
 ### Wireframes
 
@@ -20,6 +20,8 @@ a description of my project
 | 1 | Choose API |
 | 2 | Render data to screen |
 | 3 | Create form |
+| 4 | bug test |
+| 5 | Add extra features (favorites section) |
 
 ### Link to Project
 [My Project Live Page](https://www.google.com)
