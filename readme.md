@@ -11,9 +11,10 @@ An interactive pokedex where you will have the abbility to search and favorite m
 
 ### Wireframes
 
-![SOme text](https://i.ytimg.com/vi/mRf3-JkwqfU/mqdefault.jpg)
+![SOme text](https://user-images.githubusercontent.com/113205902/197662681-2fdbfe2c-a7dd-44bb-b030-b9672dc3c717.png)
 
 ### Daily Plan
+
 
 | Day | Goal |
 |-----|------|
@@ -24,4 +25,4 @@ An interactive pokedex where you will have the abbility to search and favorite m
 | 5 | Add extra features (favorites section) |
 
 ### Link to Project
-[My Project Live Page](https://www.google.com)
+[My Project Live Page](1st-project-delta.vercel.app)
