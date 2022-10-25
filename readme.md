@@ -25,4 +25,4 @@ An interactive pokedex where you will have the abbility to search and favorite m
 | 5 | Add extra features (favorites section) |
 
 ### Link to Project
-[My Project Live Page](1st-project-delta.vercel.app)
+[My Project Live Page](1st-project-jzrjb4r79-j4c0b-7burg.vercel.app)
