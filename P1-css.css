@@ -1,0 +1,28 @@
+*{
+    background-color: #88284e;
+}
+
+body{
+    column-count: 1fr 1fr;
+    column-gap: 40px;
+    column-rule-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+    column-span: all;
+}
+
+.pokemon{
+    height: 500px;
+    width: 1000px;
+    background-color: white;
+}
+
+.pokeInfo{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float: right;
+}
