@@ -11,7 +11,8 @@ An interactive pokedex where you will have the abbility to search and favorite m
 
 ### Wireframes
 
-![SOme text](https://user-images.githubusercontent.com/113205902/197662681-2fdbfe2c-a7dd-44bb-b030-b9672dc3c717.png)
+![SOme text](![wireframe- Opera 10_28_2022 12_52_08 PM](https://user-images.githubusercontent.com/113205902/198721715-92ee71e3-599c-4fd4-aad1-a0167112b570.png)
+
 
 ### Daily Plan
 
