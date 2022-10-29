@@ -19,8 +19,8 @@ An interactive pokedex where you will have the abbility to search and favorite m
 | Day | Goal |
 |-----|------|
 | 1 | Choose API |
-| 2 | Render data to screen |
-| 3 | Create form |
+| 2 | Create form |
+| 3 | Render data to screen  |
 | 4 | bug test |
 | 5 | Add extra features (favorites section) |
 
