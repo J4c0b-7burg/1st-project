@@ -1,3 +1,4 @@
+
 document.querySelector("#search").addEventListener("click", getPokemon);
 
 function capitalizeFirstLetter(string) {
